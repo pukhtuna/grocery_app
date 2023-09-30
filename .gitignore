@@ -2,8 +2,16 @@
 
 # Files and directories created by pub
 .dart_tool/
+.idea
 .packages
 build/
+linux/
+windows/
+web/
+test/
+macos/
+.metadata
+analysis_options.yaml
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
